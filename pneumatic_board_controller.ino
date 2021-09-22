@@ -156,8 +156,8 @@ void doPWM() {
 }
 
 void doPlot() {
-  //  Serial.print(timeValue); // Current Time
-  //  Serial.print(" ");
+  Serial.print(timeValue); // Current Time
+  Serial.print(" ");
   Serial.print(sineWave); // 1. Sine Input
   //  Serial.print(rampValue); // 2. Ramp Input
   //  Serial.print(PID_SP); // 3. Constant Input
