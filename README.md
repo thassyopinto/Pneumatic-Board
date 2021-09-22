@@ -7,5 +7,5 @@ Prerequisites:
 2. [PID Library](https://github.com/br3ttb/Arduino-PID-Library)
 
 ```
-Tools > Manage Libraries > PID v1.2.0
+Tools > Manage Libraries > PID v1.2.0 (by Brett Beauregard)
 ```
