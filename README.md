@@ -1,4 +1,4 @@
-This is the internal controller for a Pneumatic Board with Arduino Mega 2560.
+This is the controller for a Pneumatic Board with Arduino Mega 2560.
 
 Prerequisites:
 
