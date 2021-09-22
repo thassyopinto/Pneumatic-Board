@@ -1,7 +1,7 @@
 /*
 Pneumatic Platform v2.0
-Revision: August 2020
-Author: Thassyo Pinto
+Revision: November 2020
+Author: Thassyo Pinto - thassyo@ieee.org
 */
 
 #include <PID_v1.h>
